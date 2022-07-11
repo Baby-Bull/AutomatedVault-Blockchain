@@ -1,0 +1,19 @@
+{
+  "name": "vaultapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@celo/contractkit": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1",
+    "truffle": "^5.5.21",
+    "web3": "^1.7.4"
+  }
+}
