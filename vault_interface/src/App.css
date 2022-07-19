@@ -36,3 +36,111 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+}
+.logo {
+  display: flex;
+  padding: 2em 5em;
+  align-items: center;
+}
+.titleLogo {
+  font-family: Poppins, Open Sans;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.58px;
+  color: rgb(49, 199, 127);
+  margin-left: 1em;
+}
+.menu {
+  text-align: center;
+}
+.IDVault {
+  font-size: 20px;
+  color: rgb(49, 199, 127);
+  margin: 1em;
+  padding: 0.5em;
+  border: 1px solid #d9d9d9;
+  border-radius: 20px;
+}
+.selectBox {
+  border: 1px #bbbbbb solid;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 0.5em 1em;
+  font-family: poppins;
+  margin: 0 3em;
+}
+
+.content {
+  padding: 0 10em;
+  color: #6b6b6b!important;
+}
+.dataWallet {
+  border: 1px solid gray;
+  text-align: center;
+  background: white;
+  width: fit-content;
+  padding: 0 5em;
+  margin: auto;
+  margin-top: 2em;
+  box-shadow: 1px 5px 10px 5px grey;
+  border-radius: 20px;
+}
+.dataUl {
+  list-style: none;
+  text-align: start;
+  font-size: 20px;
+}
+.dataUl li {
+  margin: 1em 0;
+}
+
+.actions1 {
+  margin-top: 4em;
+}
+.buttons {
+  text-align: center;
+}
+.buttons button {
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0 2em;
+  font-size: 16px;
+  font-family: poppins;
+  font-weight: 400;
+  color: white;
+  box-shadow: 0px 1px 5px 2px grey;
+  border: 1px #bdbdbd solid;
+}
+.inputAction {
+  font-size: 20px;
+  padding: 0.4em;
+  border-radius: 8px;
+  border: 1px #cbcbcb solid;
+  background: white;
+}
+.buttonAction2 {
+  padding: 0.5em;
+  border-radius: 8px;
+  margin-left: 2em;
+  border: 1px #31c77f solid;
+  background: white;
+  color: #31c77f;
+  font-weight: 700;
+  font-family: poppins;
+  font-size: 16px;
+}
+.buttonAction2:hover {
+  background-color: #31c77f;
+  color: white;
+}
+
+
+
+.info{
+  background-color: white;
+  padding: 2em;
+  margin-bottom: 5em;
+}
